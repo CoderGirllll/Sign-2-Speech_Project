@@ -1,3 +1,7 @@
+// link for colab 
+https://colab.research.google.com/drive/1JY9ik4PniKRyE5Qd2wh21KahbdHXcAQ2?usp=sharing
+
+
 import string
 import pandas as pd
 import numpy as np
