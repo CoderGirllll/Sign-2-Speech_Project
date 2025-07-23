@@ -1,0 +1,17 @@
+# Ignore virtual environments
+sign2speech-env/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Compiled binaries
+*.pyd
+*.dll
+*.so
+*.dylib
+
+# System files
+.DS_Store
+Thumbs.db
